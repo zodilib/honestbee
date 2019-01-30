@@ -18,9 +18,14 @@
 
 
 ####Example -
+   
+   1.
     ``` 
     #docker build -t repoinfo .
     ```
+   
+   2.
+
     ```
     #docker run -v $PWD:/opt repoinfo  example_list.txt
     ```
