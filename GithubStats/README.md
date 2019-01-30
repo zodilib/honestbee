@@ -20,6 +20,8 @@
 ####Example -
     ``` 
     #docker build -t repoinfo .
+    ```
+    ```
     #docker run -v $PWD:/opt repoinfo  example_list.txt
     ```
 
